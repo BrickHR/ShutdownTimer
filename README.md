@@ -21,4 +21,4 @@ Ein benutzerfreundlicher Shutdown Timer mit grafischer Konsolenanzeige, der es e
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/IHR-USERNAME/ShutdownTimer.git
+git clone https://github.com/BrickHR/ShutdownTimer.git
